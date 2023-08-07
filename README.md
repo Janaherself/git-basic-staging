@@ -69,7 +69,7 @@
 
 
 ### 18. What is the content of file.txt?
-<img src="/staging/stagin18.png">
+<img src="/staging/staging18.png">
 
 
 ### 19. What does git status tell us?
